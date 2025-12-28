@@ -1,0 +1,13 @@
+[ {
+  "id" : 1,
+  "title" : "Book_title",
+  "author" : "Book_author",
+  "status" : "AVAILABLE",
+  "libraryPurchaseDate" : "2025-12-28"
+}, {
+  "id" : 2,
+  "title" : "Book_title2",
+  "author" : "Book_author2",
+  "status" : "REMOVED",
+  "libraryPurchaseDate" : "2025-12-28"
+} ]

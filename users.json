@@ -1,0 +1,9 @@
+[ {
+  "id" : 1,
+  "name" : "User_name",
+  "status" : "ACTIVE"
+}, {
+  "id" : 2,
+  "name" : "User_name2",
+  "status" : "DELETED"
+} ]

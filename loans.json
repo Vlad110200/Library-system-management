@@ -1,0 +1,8 @@
+[ {
+  "id" : 1,
+  "bookId" : 1,
+  "userId" : 1,
+  "borrowDate" : "2025-12-28",
+  "returnDate" : "2025-12-29",
+  "status" : "ACTIVE"
+} ]
